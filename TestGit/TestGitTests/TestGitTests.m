@@ -1,6 +1,6 @@
 //
-//  TestGitTests.m
-//  TestGitTests
+//  testgitTests.m
+//  testgitTests
 //
 //  Created by lixiaoqiang on 2017/12/3.
 //  Copyright © 2017年 lixiaoqiang. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface TestGitTests : XCTestCase
+@interface testgitTests : XCTestCase
 
 @end
 
-@implementation TestGitTests
+@implementation testgitTests
 
 - (void)setUp {
     [super setUp];
